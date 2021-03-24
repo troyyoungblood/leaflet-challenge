@@ -1,0 +1,37 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#map,
+body,
+html {
+  height: 100%;
+}
+
+/* CSS from the Leaflet-Choropleth documentation */
+
+h3 {
+  text-align: center;
+}
+
+.legend {
+  padding: 6px 8px;
+  line-height: 8px;
+  color: black;
+  box-shadow: 0 0 15px rgba(15, 15, 15, 0.2);
+  background-color: white;
+  font-size: 10px;
+  align-items: center;
+  border-radius: 5px​
+}
+
+.legend i {
+  width: 18px;
+  height: 50px;
+  margin-right: 30px;
+  opacity: 1;
+  font-family: Cambria;
+  height: 15px;
+  display: inline-block;
+}
