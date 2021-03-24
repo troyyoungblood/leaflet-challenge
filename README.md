@@ -26,21 +26,21 @@ JavaScript code: [JavaScript Code](Leaflet-Step-1/static/js/logic.js)<br>
 CSS code: [CSS code](Leaflet-Step-1/static/css/style.css)<br>
 
 
-Example images
+Sample images
 
 Example map view of US in Street Map view
-<img src="images/overall.PNG" width = "450">
+<img src="Images/overall.PNG" width = "450">
 
 Example map view of US in Dark Map view
-<img src="images/dark.PNG" width = "450">
+<img src="Images/dark.PNG" width = "450">
 
 Zoom of map
-<img src="images/zoom.PNG" width = "450">
+<img src="Images/zoom.PNG" width = "450">
 
 Information box
-<img src="images/info.PNG" width = "450">
+<img src="Images/info.PNG" width = "450">
 
 Legend
-<img src="images/legend.PNG" width = "450">
+<img src="Images/legend.PNG" width = "450">
 
 
