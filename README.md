@@ -28,5 +28,19 @@ CSS code: [CSS code](Leaflet-Step-1/static/css/style.css)<br>
 
 Example images
 
-<img src="assets/images/age_v_smoker.PNG" width = "450">
-<img src="assets/images/hover_text_box.png" width = "450">
+Example map view of US in Street Map view
+<img src="images/overall.PNG" width = "450">
+
+Example map view of US in Dark Map view
+<img src="images/dark.PNG" width = "450">
+
+Zoom of map
+<img src="images/zoom.PNG" width = "450">
+
+Information box
+<img src="images/info.PNG" width = "450">
+
+Legend
+<img src="images/legend.PNG" width = "450">
+
+
