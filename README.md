@@ -22,8 +22,9 @@ The scale increments were selected based on looking at the range of values and s
 Links to the code:
 
 HTML code: [HTML Code](index.html)<br>
-JavaScript code: [JavaScript Code](Leaflet-Step-1/static/js/logic.js)<br>
+JavaScript code logic: [JavaScript Code](Leaflet-Step-1/static/js/logic.js)<br>
 CSS code: [CSS code](Leaflet-Step-1/static/css/style.css)<br>
+JavaScript code config: [JavaScript Code](Leaflet-Step-1/static/js/config.js)<br>
 
 
 Sample images
