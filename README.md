@@ -5,7 +5,7 @@ This activity is to provide code that will create an interactive map of earthqua
 
 The homework has 2 Levels.  Level 1 is required and Level 2 is Bonus.  Only Level 1 was completed due to time contraints of the Project 2 work.
 
-Link to the browser <a href="https://troyyoungblood.github.io/D3-Challenge/">Leaflet-Challenge</a>.  
+Link to the browser <a href="https://troyyoungblood.github.io/leaflet-challenge/">Leaflet-Challenge</a>.  
 
 The data set used was for map was a week's worth of earthquake data.  The map has a click feature that allows the user to select a specific point and obtain earthquake related data.  Each circle diameter is relative to the earthquake intensity.  The color of the circle is relative to its depth.  The map also has the ability to switch between Street Map and Dark mode.  Also, there is the ability to toggle off the markers if wanting to view a clean map.  The "+" and "-" in the upper left corner of the map allows for zooming in and out on the map.  The map can also be moved in various directions to view different locations.
 
@@ -30,16 +30,16 @@ Sample images
 
 Example map view of US in Street Map view <br>
 <img src="Images/overall.PNG" width = "450"><br>
-
+<br>
 Example map view of US in Dark Map view<br>
 <img src="Images/dark.PNG" width = "450"><br>
-
+<br>
 Zoom of map<br>
 <img src="Images/zoom.PNG" width = "450"><br>
-
+<br>
 Information box<br>
 <img src="Images/info.PNG" width = "450"><br>
-
+<br>
 Legend<br>
 <img src="Images/legend.PNG" width = "150"><br>
 
