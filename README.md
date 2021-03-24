@@ -28,19 +28,19 @@ CSS code: [CSS code](Leaflet-Step-1/static/css/style.css)<br>
 
 Sample images
 
-Example map view of US in Street Map view
-<img src="Images/overall.PNG" width = "450">
+Example map view of US in Street Map view <br>
+<img src="Images/overall.PNG" width = "450"><br>
 
-Example map view of US in Dark Map view
-<img src="Images/dark.PNG" width = "450">
+Example map view of US in Dark Map view<br>
+<img src="Images/dark.PNG" width = "450"><br>
 
-Zoom of map
-<img src="Images/zoom.PNG" width = "450">
+Zoom of map<br>
+<img src="Images/zoom.PNG" width = "450"><br>
 
-Information box
-<img src="Images/info.PNG" width = "450">
+Information box<br>
+<img src="Images/info.PNG" width = "450"><br>
 
-Legend
-<img src="Images/legend.PNG" width = "450">
+Legend<br>
+<img src="Images/legend.PNG" width = "150"><br>
 
 
